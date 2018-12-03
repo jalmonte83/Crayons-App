@@ -25,7 +25,7 @@ class CrayonDeatailViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-defaultBackgroundColors
+defaultBackgroundColors 
 
     }
     
